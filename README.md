@@ -10,8 +10,8 @@
 * _**Transaction Block**_ - Used to a create a block and Merkle Trees out of an array of transactions.
 * _**BlockChain_Honest**_ - Used to maintain a block chain out of the Transaction Blocks and contains method to add blocks for the honest case.
 * _**BlockChain_Malicious**_ - Used to maintain a block chain out of the Transaction Blocks and contains method to add blocks for the malicious case.
-* _**DSCoin_Honest**_ - The main class which maintains and stores the overall structure of the entier cryptocurrency for the honest case.
-* _**DSCoin_Malicious**_ - The main class which maintains and stores the overall structure of the entier cryptocurrency for the malicious case.
+* _**DSCoin_Honest**_ - The main class which maintains and stores the overall structure of the entire cryptocurrency and its attributes for the honest case.
+* _**DSCoin_Malicious**_ - The main class which maintains and stores the overall structure of the entire cryptocurrency and its attributes for the malicious case.
 * _**Members**_ - The class used to define a member who uses this cryptocurrency and it contains methods that send, mine and recieve a coin from some other user/member.
 * _**Moderator**_ - This class creates a moderator object which initially distributes some fixed amount of coins amongst all members of the "DS Coin".
 * _**EmptyQueueException**_ - Exception class which handles the exception in case the Transaction Queue doesn't contain any transactions and is thus, empty.
