@@ -23,6 +23,6 @@
 
 
 
-### INSTRUCTIONS TO RUN THE PROGRAM:
+## INSTRUCTIONS TO RUN THE PROGRAM:
 * Create a java file which contains the main method and initialize either the DSCoin_Honest object or the DSCoin_Malicious object, Moderator and Members to distribute a fixed amount of coins amongst the members.
 * Intiate, mine and finalize the transactions to do all the required exchange of money amongst the members.
