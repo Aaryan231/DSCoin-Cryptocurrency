@@ -14,7 +14,7 @@
 * _**DSCoin_Malicious**_ - The main class which maintains and stores the overall structure of the entier cryptocurrency for the malicious case.
 * _**Members**_ - The class used to define a member who uses this cryptocurrency and it contains methods that send, mine and recieve a coin from some other user/member.
 * _**Moderator**_ - This class creates a moderator object which initially distributes some fixed amount of coins amongst all members of the "DS Coin".
-* _**EmptyQueueException**_ - Exception class to handle the exception when the Transaction Queue is empty.
+* _**EmptyQueueException**_ - Exception class to handle the exception when the Transaction Queue doesn't contain any transactions.
 * _**MissingTransactionException**_ - Exception class which handles the exception in case a particular transaction is not found in the entire blockchain.
 
 ## HelperClasses
