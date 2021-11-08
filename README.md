@@ -21,6 +21,8 @@
 * Consist of 6 java files _**Conversion, CRF, MerkleTree, Pair, sha256**_ and _**TreeNode**_.
 * These files help in computing the CRF of a string, building a tree for storage of data in a Transaction Block etc.
 
-### HOW TO RUN THE ENTIRE PROGRAM:
+
+
+### INSTRUCTIONS TO RUN THE PROGRAM:
 * Create a java file which contains the main method and initialize either the DSCoin_Honest object or the DSCoin_Malicious object, Moderator and Members to distribute a fixed amount of coins amongst the members.
 * Intiate, mine and finalize the transactions to do all the required exchange of money amongst the members.
